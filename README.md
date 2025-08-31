@@ -127,7 +127,7 @@ $terraform apply --auto-approve
 
 ## 📄 License
 
-MIT License © Surendra123A
+MIT License © Surendra Prasad
 ---
 
 > _Happy Terraforming!_ 🌟
