@@ -1,2 +1,4 @@
 terraform/gcp/.terraform/
 terraform/aws/.terraform/
+terraform/aws/kubeconfig-ec2
+
