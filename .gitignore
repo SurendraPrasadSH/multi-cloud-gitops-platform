@@ -65,5 +65,11 @@ terraform/gcp/.gitignore/.ssh/known_hosts
 terraform/gcp/.gitignore/.ssh/known_hosts.old
 terraform/gcp/.gitignore/.terraform/environment
 terraform/gcp/.gitignore/docs.txt
+terraform/aws/.gitignore/.ssh/new-aws-key
+terraform/aws/.gitignore/.ssh/new-aws-key.pub
+terraform/aws/.gitignore/documentation for aws.docx
+terraform/aws/.gitignore/surendra.pem
+terraform/aws/.gitignore/surendra_accessKeys.csv
+
 
 
